@@ -138,6 +138,19 @@ footer {
     color: white;
 }
 
+.section_form {
+    display: flex;
+}
+
+.background {
+    background-color: black;
+    color: azure;
+}
+
+.form {
+    margin: 40px;
+}
+
 @media (max-width:786px) {
     .hero_section {
         min-height: 50vh;
